@@ -1,0 +1,25 @@
+.articleframe{
+    margin-left: 434px;
+    width: 1043px;
+    height: 941px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 0px 2px 4px rgba(0, 0,0, 2) ;
+}
+.articleframe img{
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.content h1{
+    color: black;
+    margin-left: 417px;
+    font-family:  Helvetica;
+    
+}
+.content p{
+    margin-left: 5px;
+    margin-right: 5px;
+}
